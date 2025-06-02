@@ -1,0 +1,22 @@
+flask==3.0.0
+langchain==0.1.9
+langchain-community==0.0.10
+langchain-openai==0.0.5
+openai==1.3.7
+pandas==2.1.4
+chromadb==0.4.18
+python-dotenv==1.0.1
+tiktoken
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+openpyxl==3.1.2
+youtube-transcript-api
+pytube
+httpx==0.27.2
+python-docx==0.8.11
+tqdm==4.66.1  # For progress bars
+onnxruntime==1.16.3
+streamlit==1.31.1
+streamlit-chat==0.1.1
